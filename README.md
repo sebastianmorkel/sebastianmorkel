@@ -8,7 +8,7 @@ $ whoami
 
 > I build practical software across the stack, from full web apps to AI-driven tools.
 
-🎓 BSc Applied Mathematics @ Stellenbosch University &nbsp;•&nbsp; 🟢 **Open to internships**
+🎓 BSc Applied Mathematics @ Stellenbosch University &nbsp;•&nbsp; 
 🌐 **[sebastianmorkel.com](https://sebastianmorkel.com)**
 
 ---
