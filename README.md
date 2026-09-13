@@ -1,12 +1,8 @@
-```
-$ whoami
-```
+# Hi! I'm Sebastian Morkel
 
-# Sebastian Morkel
+I'm a **Software · Web · AI/ML developer** from Cape Town, South Africa 🇿🇦
 
-**Software · Web · AI/ML developer** from Cape Town, South Africa 🇿🇦
-
-> I build practical software across the stack, from full web apps to AI-driven tools.
+Studying a:
 
 🎓 BSc Applied Mathematics @ Stellenbosch University &nbsp;•&nbsp; 
 🌐 **[sebastianmorkel.com](https://sebastianmorkel.com)**
@@ -16,6 +12,7 @@ $ whoami
 ### 🛠 Tech I build with
 
 **Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -25,6 +22,7 @@ $ whoami
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 **Frameworks & Runtime**
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white)
@@ -36,6 +34,7 @@ $ whoami
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
 **Data & Infrastructure**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -44,6 +43,7 @@ $ whoami
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 
 **AI**
+
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
 &nbsp;LLM prompt engineering · REST APIs
 
